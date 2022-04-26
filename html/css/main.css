@@ -1,0 +1,9 @@
+body {
+  font-size: 14;
+  font-family: sans-serif;
+  font-kerning: 2;
+}
+
+.intro {
+  font-family: inherit;
+}
