@@ -7,3 +7,7 @@ body {
 .intro {
   font-family: inherit;
 }
+
+#navbarNavAltMarkup {
+  justify-content: flex-end;
+}
